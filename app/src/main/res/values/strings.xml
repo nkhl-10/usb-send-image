@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">USB SEND FRAME</string>
+    <string name="receiver">Receiver</string>
+    <string name="sender">Sender</string>
+</resources>
